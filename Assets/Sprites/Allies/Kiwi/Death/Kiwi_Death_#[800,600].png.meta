@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: b0a299cc54bfb7a48a481e5316abde6f
+timeCreated: 1430267859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kiwi_Death_#[800,600]_0
+    21300002: Kiwi_Death_#[800,600]_1
+    21300004: Kiwi_Death_#[800,600]_2
+    21300006: Kiwi_Death_#[800,600]_3
+    21300008: Kiwi_Death_#[800,600]_4
+    21300010: Kiwi_Death_#[800,600]_5
+    21300012: Kiwi_Death_#[800,600]_6
+    21300014: Kiwi_Death_#[800,600]_7
+    21300016: Kiwi_Death_#[800,600]_8
+    21300018: Kiwi_Death_#[800,600]_9
+    21300020: Kiwi_Death_#[800,600]_10
+    21300022: Kiwi_Death_#[800,600]_11
+    21300024: Kiwi_Death_#[800,600]_12
+    21300026: Kiwi_Death_#[800,600]_13
+    21300028: Kiwi_Death_#[800,600]_14
+    21300030: Kiwi_Death_#[800,600]_15
+    21300032: Kiwi_Death_#[800,600]_16
+    21300034: Kiwi_Death_#[800,600]_17
+    21300036: Kiwi_Death_#[800,600]_18
+    21300038: Kiwi_Death_#[800,600]_19
+    21300040: Kiwi_Death_#[800,600]_20
+    21300042: Kiwi_Death_#[800,600]_21
+    21300044: Kiwi_Death_#[800,600]_22
+    21300046: Kiwi_Death_#[800,600]_23
+    21300048: Kiwi_Death_#[800,600]_24
+    21300050: Kiwi_Death_#[800,600]_25
+    21300052: Kiwi_Death_#[800,600]_26
+    21300054: Kiwi_Death_#[800,600]_27
+    21300056: Kiwi_Death_#[800,600]_28
+    21300058: Kiwi_Death_#[800,600]_29
+    21300060: Kiwi_Death_#[800,600]_30
+    21300062: Kiwi_Death_#[800,600]_31
+    21300064: Kiwi_Death_#[800,600]_32
+    21300066: Kiwi_Death_#[800,600]_33
+    21300068: Kiwi_Death_#[800,600]_34
+    21300070: Kiwi_Death_#[800,600]_35
+    21300072: Kiwi_Death_#[800,600]_36
+    21300074: Kiwi_Death_#[800,600]_37
+    21300076: Kiwi_Death_#[800,600]_38
+    21300078: Kiwi_Death_#[800,600]_39
+    21300080: Kiwi_Death_#[800,600]_40
+    21300082: Kiwi_Death_#[800,600]_41
+    21300084: Kiwi_Death_#[800,600]_42
+    21300086: Kiwi_Death_#[800,600]_43
+    21300088: Kiwi_Death_#[800,600]_44
+    21300090: Kiwi_Death_#[800,600]_45
+    21300092: Kiwi_Death_#[800,600]_46
+    21300094: Kiwi_Death_#[800,600]_47
+    21300096: Kiwi_Death_#[800,600]_48
+    21300098: Kiwi_Death_#[800,600]_49
+    21300100: Kiwi_Death_#[800,600]_50
+    21300102: Kiwi_Death_#[800,600]_51
+    21300104: Kiwi_Death_#[800,600]_52
+    21300106: Kiwi_Death_#[800,600]_53
+    21300108: Kiwi_Death_#[800,600]_54
+    21300110: Kiwi_Death_#[800,600]_55
+    21300112: Kiwi_Death_#[800,600]_56
+    21300114: Kiwi_Death_#[800,600]_57
+    21300116: Kiwi_Death_#[800,600]_58
+    21300118: Kiwi_Death_#[800,600]_59
+    21300120: Kiwi_Death_#[800,600]_60
+    21300122: Kiwi_Death_#[800,600]_61
+    21300124: Kiwi_Death_#[800,600]_62
+    21300126: Kiwi_Death_#[800,600]_63
+    21300128: Kiwi_Death_#[800,600]_64
+    21300130: Kiwi_Death_#[800,600]_65
+    21300132: Kiwi_Death_#[800,600]_66
+    21300134: Kiwi_Death_#[800,600]_67
+    21300136: Kiwi_Death_#[800,600]_68
+    21300138: Kiwi_Death_#[800,600]_69
+    21300140: Kiwi_Death_#[800,600]_70
+    21300142: Kiwi_Death_#[800,600]_71
+    21300144: Kiwi_Death_#[800,600]_72
+    21300146: Kiwi_Death_#[800,600]_73
+    21300148: Kiwi_Death_#[800,600]_74
+    21300150: Kiwi_Death_#[800,600]_75
+    21300152: Kiwi_Death_#[800,600]_76
+    21300154: Kiwi_Death_#[800,600]_77
+    21300156: Kiwi_Death_#[800,600]_78
+    21300158: Kiwi_Death_#[800,600]_79
+    21300160: Kiwi_Death_#[800,600]_80
+    21300162: Kiwi_Death_#[800,600]_81
+    21300164: Kiwi_Death_#[800,600]_82
+    21300166: Kiwi_Death_#[800,600]_83
+    21300168: Kiwi_Death_#[800,600]_84
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kiwi_Death_#[800,600]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_13
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_14
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_15
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_16
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_17
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_22
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_23
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_24
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_25
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_26
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_31
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_32
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_33
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_34
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_35
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .5, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_40
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_42
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_43
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_44
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_50
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_51
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_52
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_53
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_57
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_58
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_59
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_60
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_61
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_62
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_65
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_66
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_67
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_69
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_70
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_71
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_74
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_75
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_76
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_77
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_78
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_79
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_80
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 600
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_83
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kiwi_Death_#[800,600]_84
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 600
+      alignment: 9
+      pivot: {x: .600000024, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

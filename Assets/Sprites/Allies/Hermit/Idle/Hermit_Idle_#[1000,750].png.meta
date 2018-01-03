@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 99757c24b08252540b9c0a75ba64982c
+timeCreated: 1430274859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hermit_Idle_#[1000,750]_0
+    21300002: Hermit_Idle_#[1000,750]_1
+    21300004: Hermit_Idle_#[1000,750]_2
+    21300006: Hermit_Idle_#[1000,750]_3
+    21300008: Hermit_Idle_#[1000,750]_4
+    21300010: Hermit_Idle_#[1000,750]_5
+    21300012: Hermit_Idle_#[1000,750]_6
+    21300014: Hermit_Idle_#[1000,750]_7
+    21300016: Hermit_Idle_#[1000,750]_8
+    21300018: Hermit_Idle_#[1000,750]_9
+    21300020: Hermit_Idle_#[1000,750]_10
+    21300022: Hermit_Idle_#[1000,750]_11
+    21300024: Hermit_Idle_#[1000,750]_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Hermit_Idle_#[1000,750]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hermit_Idle_#[1000,750]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 750
+      alignment: 9
+      pivot: {x: .5, y: .174999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

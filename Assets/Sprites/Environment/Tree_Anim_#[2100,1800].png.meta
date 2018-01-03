@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 3a61a55d38b54cc44ad87e0a84a8ea56
+timeCreated: 1430436190
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tree_Anim_#[2100,1800]_0
+    21300002: Tree_Anim_#[2100,1800]_1
+    21300004: Tree_Anim_#[2100,1800]_2
+    21300006: Tree_Anim_#[2100,1800]_3
+    21300008: Tree_Anim_#[2100,1800]_4
+    21300010: Tree_Anim_#[2100,1800]_5
+    21300012: Tree_Anim_#[2100,1800]_6
+    21300014: Tree_Anim_#[2100,1800]_7
+    21300016: Tree_Anim_#[2100,1800]_8
+    21300018: Tree_Anim_#[2100,1800]_9
+    21300020: Tree_Anim_#[2100,1800]_10
+    21300022: Tree_Anim_#[2100,1800]_11
+    21300024: Tree_Anim_#[2100,1800]_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Tree_Anim_#[2100,1800]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_1
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 7200
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_2
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 7200
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5400
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_5
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5400
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_8
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_11
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tree_Anim_#[2100,1800]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2100
+        height: 1800
+      alignment: 9
+      pivot: {x: .600000024, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
